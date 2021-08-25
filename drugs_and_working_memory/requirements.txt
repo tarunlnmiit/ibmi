@@ -1,0 +1,19 @@
+cycler==0.10.0
+dill==0.3.4
+drugs-and-working-memory @ file:///Users/tarun/Projects/ibmi/drugs_and_working_memory
+kiwisolver==1.3.1
+matplotlib==3.4.3
+multiprocess==0.70.12.2
+nengo==2.8.0
+numpy @ file:///Users/runner/miniforge3/conda-bld/numpy_1629092089725/work
+pandas==1.3.2
+pathos==0.2.8
+Pillow==8.3.1
+pox==0.3.0
+ppft==1.6.6.4
+pyparsing==2.4.7
+python-dateutil==2.8.2
+pytz==2021.1
+scipy @ file:///Users/runner/miniforge3/conda-bld/scipy_1624824918804/work
+seaborn==0.11.2
+six==1.16.0
